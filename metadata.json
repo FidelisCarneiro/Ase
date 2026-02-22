@@ -1,0 +1,5 @@
+{
+  "name": "ASE Fidel",
+  "description": "Sistema de Gerenciamento e Controle de Autorização de Serviço Extraordinário (ASE) com Supabase e Power Automate.",
+  "requestFramePermissions": []
+}
